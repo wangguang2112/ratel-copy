@@ -9,6 +9,8 @@
 ![Docker Image Version (latest by date)](https://img.shields.io/docker/v/kebyn/ratel?label=Docker&logo=docker&style=flat-square)
 
 ## 项目介绍 Project introduction
+增加了积分功能
+
 斗地主我想大家都会玩吧，但是不知道大家有没有在命令行内玩过斗地主。
 
 这个项目是基于Netty实现的一款命令行斗地主游戏，在下班后或者工作闲暇之余，你都可以肆无忌惮的在命令行中玩斗地主~
